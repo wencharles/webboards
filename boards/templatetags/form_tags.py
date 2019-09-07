@@ -1,11 +1,10 @@
-from django import templates
+from django import template
 
-register = template.library()
+register = template.Library()
 
 @register.filter
 def field_type(bound_field):
-    if __name__ == '__main__':
-        return bound_field.field.widget.__class__.__name__
+    return bound_field.field.widget.__class__.__name__
 
 @register.filter
 def input_class(bound_field):
