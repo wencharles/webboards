@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3798148-9698-41e9-9466-0f5050ad26da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boards/tests/test_view_board_topics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boards/tests/test_view_new_topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boards/tests/test_view_reply_topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boards/tests/test_view_topic_posts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/avatar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/reply_topic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/topic_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boards/tests/test_view_edit_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/edit_post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boards/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boards/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boards/tests/test_view_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/tests/test_view_home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boards/tests/test_views.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/boards/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/topic_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/topic_posts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/topics.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/topics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webboards/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/webboards/urls.py" afterDir="false" />
     </list>
